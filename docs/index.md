@@ -8,6 +8,8 @@ This document describes the way storebrowse is intended to be used when taking a
 
 To enable domain credentials insertion, enable the HTTP Basic authentication method in the StoreFront console:
 
+![Manage Authentication Methods](./manage-auth-modes.png)
+
 ## Operations with Credential Insertion
 
 Storebrowse allows credentials to be provided for authenticating to a StoreFront server using the same `-U`/`-D`/`-P` switches used for presenting username, and domain and password, respectively, to a PNA store.
