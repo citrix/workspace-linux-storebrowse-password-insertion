@@ -1,8 +1,8 @@
-# Storebrowse Classic Password Insertion for StoreFront [Citrix Receiver for Linux 13.10]
+# Storebrowse Classic Password Insertion for StoreFront [Citrix Workspace app for Linux 1808]
 
 ## Introduction
 
-This document describes the way storebrowse is intended to be used when taking advantage of the new SSO capabilities available in Citrix Receiver for Linux.
+This document describes the way storebrowse is intended to be used when taking advantage of the new SSO capabilities available in Citrix Workspace app for Linux.
 
 ## Configuration
 
@@ -47,7 +47,7 @@ The rule enforced to compare domain credentials is as follows: two sets of domai
 
 ## Examples
 
-The following examples illustrate how to use the Receiver’s SSO capabilities with storebrowse.
+The following examples illustrate how to use the Citrix Workspace app's SSO capabilities with storebrowse.
 
 ### Basic usage flow
 
