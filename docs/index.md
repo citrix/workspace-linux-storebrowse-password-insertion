@@ -1,4 +1,4 @@
-# Storebrowse Classic Password Insertion for StoreFront [Citrix Workspace app for Linux 1808]
+# Storebrowse Classic Password Insertion for StoreFront [Citrix Workspace app 1808 for Linux]
 
 ## Introduction
 
