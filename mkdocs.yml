@@ -1,5 +1,5 @@
-site_name: Storebrowse Classic Password Insertion for Citrix Workspace app 1808 for Linux
-site_description: Storebrowse Classic Password Insertion for Citrix Workspace app 1808 for Linux
+site_name: Storebrowse Classic Password Insertion for Citrix Workspace app for Linux
+site_description: Storebrowse Classic Password Insertion for Citrix Workspace app for Linux
 theme_dir: citrix-sdk
 markdown_extensions:
   - admonition
