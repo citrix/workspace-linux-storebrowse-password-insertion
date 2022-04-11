@@ -6,7 +6,7 @@ This document describes the way storebrowse is intended to be used when taking a
 
 ## Configuration
 
-To enable domain credentials insertion, enable the HTTP Basic authentication method in the StoreFront console:
+To enable Storebrowse classic password insertion, enable the HTTP Basic authentication method in the StoreFront console:
 
 ![Manage Authentication Methods](./manage-auth-modes.png)
 
@@ -24,7 +24,7 @@ However, specifying the same credentials during subsequent storebrowse calls doe
 
 For examples on how to use the `-U`/`-D`/`-P` switches to provide SSO credentials, see the Linux OEM Reference Guide.
 
-## Domain credential comparison rules
+## Credential comparison rules
 
 Storebrowse allows only domain credentials to be presented. The command line is not considered secure enough to provide smart card PINs.
 
