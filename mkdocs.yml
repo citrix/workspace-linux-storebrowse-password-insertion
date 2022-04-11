@@ -63,7 +63,3 @@ plugins:
   - search:
       separator: '[\s\-\.]+'
       prebuild_index: true
-
-# Page tree
-nav:
-- Home: index.md
